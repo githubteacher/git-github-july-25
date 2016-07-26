@@ -15,7 +15,7 @@ Your trainers for today will be:
 
 - Sign up for or sign in to an account on GitHub.com
 
-### Talk to Us! :comment:
+### Talk to Us!
 
 [![Join the chat at https://gitter.im/githubteacher/git-github-july-25](https://badges.gitter.im/githubteacher/git-github-july-25.svg)](https://gitter.im/githubteacher/git-github-july-25?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
