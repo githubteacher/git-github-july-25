@@ -1,6 +1,7 @@
 ##Chittagong 
 
-##Fun facts 
+##Fun facts
+  -It's both a state and a city :D 
 
 ##Places to eat
 
