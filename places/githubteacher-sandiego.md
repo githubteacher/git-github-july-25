@@ -2,9 +2,11 @@
 
 ### Fun Facts
 - It was in the movie "Top Gun"
+- It was also in the movie "Anchorman"
 
 ### Places to Eat
 - City Tacos
+- Hodads
 
 ### Places to Go
 - Disneyland
@@ -12,3 +14,4 @@
 - Coronado
 
 ### Places to Avoid
+ - Encontro
