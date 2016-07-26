@@ -10,4 +10,5 @@
  - Cox's Bazar (beach)
  - hawkers (shopping)
 ### Places to Avoid
- 
+ - Sewer
+
