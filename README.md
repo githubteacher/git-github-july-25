@@ -10,6 +10,7 @@ Your trainers for today will be:
  - Katrina Uychaco (:octocat: @kuychaco)
 - On Gitter:
  - Matt Desmond (:octocat: @beardofedu)
+ - Michelle Tilley (:octocat: @binarymuse)
 
 ### Before we Begin
 
