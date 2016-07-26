@@ -4,6 +4,8 @@
   -It's both a state and a city :D 
 
 ##Places to eat
+  - Cafe 88
+  - Barcode cafe
 
 ##Places to go
   -Cox's Bazaar
