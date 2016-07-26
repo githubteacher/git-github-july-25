@@ -11,3 +11,4 @@
     -Butterfly Park
 
 ### Places to Avoid
+  - Crowded places 
