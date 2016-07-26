@@ -1,4 +1,4 @@
-# git-github-july-25
+# Introduction to Git and GitHub 
 Git and GitHub Course for July 25th - 28th
 
 ### Facilitators
