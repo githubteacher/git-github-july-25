@@ -12,3 +12,7 @@
 
 ### Places to Avoid
   - Crowded places 
+  
+###Tourist Spots
+	-Cox's Bazaar
+	
